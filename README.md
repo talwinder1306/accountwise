@@ -1,8 +1,8 @@
-Run the file AccountTransactionServiceTest to test the below 4 functions
-
 To change the file:
  1. Add the file to the root directory (where account.csv is present)
  2. Update the value for fileName in AccountTransactionServiceTest
+
+Run the file AccountTransactionServiceTest to test the below 4 functions:
 
 function **findTotalClosingBalance(csvFileName, date)** <br/>
 _Parameters_
